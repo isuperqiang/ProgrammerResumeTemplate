@@ -1,9 +1,11 @@
 ## 姓名
-**手机：**188 8888 8888　　　　　　　　**邮箱：** xxxxxxxx@xx.com　　　　　　　　**QQ/微信：**1234567890
+
+**手机：** 188 8888 8888　　　　　　　　　**邮箱：** xxxxxxxx@xx.com　　　　　　　　　**QQ/微信：** 1234567890
 
 博客：http://www.jianshu.com/u/xx 　　　　　　　　　　　　　　 GitHub：https://github.com/xxxx    
 
 // 提示：博客和 GitHub 可选。
+
 
 // 插入空格时，请使用全角空格字符
 
